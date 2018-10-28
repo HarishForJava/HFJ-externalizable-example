@@ -1,4 +1,4 @@
-#Where To Use Externalizable ?
+# Where To Use Externalizable ?
 
 The default java serialization is not efficient. It you serialize a bloated objected having lots of attributes and properties, you do not wish to serialize for any reason 
 
