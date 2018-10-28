@@ -21,7 +21,7 @@ A public no-arg constructor is required while using Externalizable interface.
 method is used to provide the logic for serialization
 							 i.e. writing the fields of class into bytes. You are free to store only those fields which you want back after reading the serialized object back. Ignore rest of the field.
 
-##readExternal()
+## readExternal()
 method must read the values in the same sequence and with the same types as were written by writeExternal().
 
 ## Request
